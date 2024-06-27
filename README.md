@@ -1,7 +1,10 @@
-# Esse é meu primeiro repositório
+# Este repositório contém informações sobre o curso Front End 2024
 
-## Kelly Yasmim
-
-- [X] Passear com o cachorro
-- [ ] Lavar roupa
-- [ ] Limpar o quarto
+## Ambientes de desenvolvimento
+- [ ] Editor de Código
+- [ ] IDE
+- [ ] VS Code
+- [ ] NODEJS
+- [ ] NPM
+- [ ] GIT
+     
