@@ -7,4 +7,8 @@
 - [ ] NODEJS
 - [ ] NPM
 - [ ] GIT
-     
+## SOFTSKILLS
+- [ ] Trabalhos em Equipe
+- [ ] Distribuição de tarefas
+- [ ] Apresentação das Skills
+      
